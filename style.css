@@ -1,0 +1,42 @@
+header {
+    border-bottom-width: 10px;
+    background-color: beige;
+}
+
+textarea {
+    resize: none;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.past {
+    background-color: red;
+    border-color: red;
+}
+
+.future {
+    background-color: rgb(192, 192, 0);
+    border-color: rgb(192, 192, 0);
+}
+
+.present {
+    background-color: greenyellow;
+    border-color: greenyellow;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+button {
+    background-color:orange;
+    border-radius: 0px 5px 5px 0px;
+}
+
+h4 {
+    color: blue;
+}
+
+button {
+    font-size: 16px;
+}
+
